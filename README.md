@@ -17,7 +17,7 @@ Obs.: O Venv é opcional, mas eu usei ele para criar um ambiente virtual na minh
 
 ## Como testar a aplicação?(VÍDEO)
 Para acessar o vídeo tutorial, basta seguir o link a baixo:
-
+https://drive.google.com/file/d/1sIFotJVrdGxi0J2arcllSts2tlcoriDd/view?usp=sharing
 
 ## Como testar a aplicação?(TEXTO)
 Utilizei o Postman para isso, após ativar o ambiente virtual e rodar o server, como na imagem a baixo:
@@ -145,3 +145,11 @@ http://127.0.0.1:8000/fruits/3/
 - Clicar em "Send" como na imagem a seguir:
 ![2022-03-30 (11)](https://user-images.githubusercontent.com/99224273/160844578-64032876-4707-4c93-a552-7499462a32c0.png)
 
+## Uso do SQLite
+Foi usado o banco de dados SQLite, confirme mostrado nas imagens abaixo:
+
+![2022-03-30 (15)](https://user-images.githubusercontent.com/99224273/160889638-b36ebaf0-49f3-4e28-b004-2a3895008036.png)
+![2022-03-30 (16)](https://user-images.githubusercontent.com/99224273/160889643-885f3750-5a64-446b-a90d-12908a141892.png)
+![2022-03-30 (12)](https://user-images.githubusercontent.com/99224273/160889646-79f58e62-5239-4ff3-b7e1-1073b55d9d14.png)
+![2022-03-30 (13)](https://user-images.githubusercontent.com/99224273/160889648-f5c5454a-252b-4c50-97e6-b108de50d5a9.png)
+![2022-03-30 (14)](https://user-images.githubusercontent.com/99224273/160889649-84544b44-144e-400f-91ff-d67edcc453f8.png)
